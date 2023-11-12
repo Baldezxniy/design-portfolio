@@ -1,0 +1,5 @@
+when we write as const after object, it means that won't change, and we know what constant value in the array or object
+const a = [{a:'a1', b:'b1'},{a:'a1', b:'b1'}] as const;
+when we hover in array, we'll know what elements in it
+
+React.createElement(ComponentName) the same <ComponentName />, but first variant in ts/js file, second in jsx/tsx
